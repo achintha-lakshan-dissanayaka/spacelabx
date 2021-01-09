@@ -1,0 +1,28 @@
+.fireball__heading{
+    background-color: blueviolet;
+    padding: 20px;
+    color: white;
+  }
+
+.com__heading{
+  background-color: blueviolet;
+  color: white;
+  text-align: center;
+}
+
+.com__container{
+ 
+  max-width: 1000px;
+  padding-left: 40px;
+  padding-top: 5px;
+  justify-content: center;
+}
+
+.projects__links{
+  text-decoration: none;
+  color: black;
+}
+
+.instructions{
+  padding: 20px;
+}

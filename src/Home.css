@@ -1,0 +1,29 @@
+.icon{
+    color: white;
+  }
+  
+  .maincontent{
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .maincontent__heading{
+    color: blue;
+    margin-bottom: 15px;
+  }
+  
+  .maincontent__image{
+    object-fit: contain;
+    width: 650px;
+    margin-bottom: 15px;
+  }
+  
+  .maincontent__explantion{
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
+  .navstyle{
+    color: black;
+    text-decoration: none;
+  }

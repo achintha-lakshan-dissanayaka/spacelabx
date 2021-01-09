@@ -1,0 +1,24 @@
+.root{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   overflow: hidden;
+   background-color: blue;
+  }
+
+.gridList {
+    width: 500;
+    height: 400;
+}
+
+.root__title{
+    color: cornsilk;
+    font-size: 50px;
+    background-color: blueviolet;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.icon {
+    color: 'rgba(255, 255, 255, 0.54)';
+}
