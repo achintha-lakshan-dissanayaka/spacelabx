@@ -22,7 +22,7 @@ function Home() {
 
   const[content , setContent] = useState({});
 
-  const api_key = 'O4caK6V8qbtc4DU2WLn7ukYaZ52bGZAeFKYYHCiu';
+  const api_key = 'myapikey';
 
   useEffect(()=> {
     async function getContent(){
