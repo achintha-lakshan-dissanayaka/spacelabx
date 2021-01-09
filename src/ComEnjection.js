@@ -14,7 +14,7 @@ function ComEnjection(){
     let enddate = today.getFullYear() + '-' + (today.getMonth() + 1) + '-' + (today.getDate());
     let startdate = (today.getFullYear() - 1) + '-' + (today.getMonth() + 1) + '-' + (today.getDate());
     //console.log('sttttt '+ startdate);
-    const api_key = 'O4caK6V8qbtc4DU2WLn7ukYaZ52bGZAeFKYYHCiu';
+    const api_key = 'myapikey';
     
     const[comdata , setComdata] = useState([]);
 
