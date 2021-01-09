@@ -12,7 +12,7 @@ function EarthImaginary() {
     const [dim , setDim] = useState('');
     const [query , setQuery] = useState({});
 
-    const api_key = 'O4caK6V8qbtc4DU2WLn7ukYaZ52bGZAeFKYYHCiu';
+    const api_key = 'myapikey';
 
     const useStyles = makeStyles((theme) => ({
         root: {
